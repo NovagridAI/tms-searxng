@@ -41,3 +41,5 @@ engines:
   - name: Tencent TMS
 ```
 Perform a search via the SearxNG interface, and results from Tencent TMS will appear when the engine is selected.
+
+![image](https://github.com/user-attachments/assets/b0c0a99f-2436-4bd1-ae65-8f4313312565)
